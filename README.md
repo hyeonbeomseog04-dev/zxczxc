@@ -47,7 +47,7 @@ function hello() {
 > 간단한 한 줄 설명
 
 ![배지](https://img.shields.io/badge/version-1.0.0-blue)
-
+https://img.shields.io/badge/github-repo-blue?logo=github
 https://img.shields.io/badge/any_text-you_like-blue
 https://img.shields.io/badge/Spring_Boot-3.5-brightgreen?logo=springboot
 https://img.shields.io/badge/
