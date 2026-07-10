@@ -53,7 +53,7 @@ function hello() {
 
 
 https://img.shields.io/badge/any_text-you_like-blue
-https://img.shields.io/badge/Spring_Boot-3.5-brightgreen?logo=spring boot
+https://img.shields.io/badge/Spring_Boot-3.5-brightgreen?logo=springboot
 https://img.shields.io/badge/
 ```bash
 npm install my-project
