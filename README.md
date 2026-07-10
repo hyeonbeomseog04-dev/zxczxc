@@ -48,12 +48,12 @@ function hello() {
 
 ![배지](https://img.shields.io/badge/version-1.0.0-blue)
 
+https://img.shields.io/badge/any_text-you_like-blue
+https://img.shields.io/badge/Spring_Boot-3.5-brightgreen?logo=springboot
+https://img.shields.io/badge/
 ## 📦 설치 방법
 
 
 
-https://img.shields.io/badge/any_text-you_like-blue
-https://img.shields.io/badge/Spring_Boot-3.5-brightgreen?logo=springboot
-https://img.shields.io/badge/
 ```bash
 npm install my-project
